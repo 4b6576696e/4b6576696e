@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @4b6576696e<Kevin>
-- 👀 I’m interested in making [$dollars, awesome 3d websites, full stack applications].push(...)
+- 👀 I’m interested in making [awesome 3d websites, full stack applications].push(...)
 - 🌱 I’m currently learning everything required to build efficient full stack application
-     by using modern technologies like: [sveltekit, trpc, prisma, tailwind].push(...)
+     by using modern technologies.
 - 💞️ I’m looking to collaborate on blah blah blah.
 - 📫 How to reach me {
         via-gmail: 'kevin1552002@gmail.com',
